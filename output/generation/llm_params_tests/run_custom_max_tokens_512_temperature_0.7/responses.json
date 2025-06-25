@@ -1,0 +1,82 @@
+[
+    {
+        "index": 11,
+        "query": "when did now thats what i call music come out",
+        "gold_answer": "28 November 1983",
+        "prediction": "Now That's What I Call Music was released on 28 November 1983 in the United Kingdom.",
+        "prediction_golden": "Now That's What I Call Music, also known as Now or Now 1, was originally released on 28 November 1983.",
+        "elapsed_time": 0.8155718999914825
+    },
+    {
+        "index": 13,
+        "query": "where is the 2018 grey cup being played",
+        "gold_answer": "The Brick Field at Commonwealth Stadium in Edmonton , Alberta",
+        "prediction": "The 2018 Grey Cup is being played at The Brick Field at Commonwealth Stadium in Edmonton, Alberta.",
+        "prediction_golden": "The 2018 Grey Cup is being played at The Brick Field at Commonwealth Stadium in Edmonton, Alberta on Sunday, November 25, 2018.",
+        "elapsed_time": 0.6727643000194803
+    },
+    {
+        "index": 16,
+        "query": "where did the band bastille get their name",
+        "gold_answer": "Bastille Day",
+        "prediction": "The context does not contain specific information on how the band Bastille got their name.",
+        "prediction_golden": "The band Bastille got their name from Bastille Day, which is celebrated on 14 July, the date of lead vocalist Dan Smith's birthday.",
+        "elapsed_time": 1.450544499908574
+    },
+    {
+        "index": 17,
+        "query": "where is arkansas river located on a map",
+        "gold_answer": "The Arkansas River flows through Colorado , Kansas , Oklahoma , and Arkansas , and its watershed also drains parts of Texas , New Mexico and Missouri .",
+        "prediction": "The Arkansas River is located in the U.S. states of Colorado, Kansas, Oklahoma, and Arkansas. It also drains parts of Texas, New Mexico, and Missouri. It flows generally east and southeast, originating in the Arkansas River Valley in Colorado, through the Rockies, then into the Midwest via Kansas, and finally into the Mississippi River in eastern Arkansas.",
+        "prediction_golden": "The Arkansas River is located in the United States, flowing through Colorado, Kansas, Oklahoma, and Arkansas, specifically in the Great Plains region. It also drains parts of Texas, New Mexico, and Missouri. The lower part of the river near Little Rock, Arkansas, is mentioned, with specific coordinates provided for locations near Leadville, Colorado, and Napoleon, Arkansas. The river's length is stated as 1,469 mi (2,364 km), and basin size is given as 168,002 sq mi (435,123 km). Discharge measurements for Dardanelle, Arkansas, are also provided. The context does not provide a specific map location beyond these details. If a more precise map location is needed, that information is not contained in the given context.",
+        "elapsed_time": 2.024405899923295
+    },
+    {
+        "index": 18,
+        "query": "who plays nicholas in the princess diaries 2",
+        "gold_answer": "Chris Pine",
+        "prediction": "John Rhys-Davies plays Viscount Mabrey in The Princess Diaries 2: Royal Engagement.",
+        "prediction_golden": "Chris Pine plays Lord Nicholas Devereaux in Princess Diaries 2.",
+        "elapsed_time": 0.8682898000115529
+    },
+    {
+        "index": 22,
+        "query": "the p-wave phase of an electrocardiogram (ecg) represents",
+        "gold_answer": "atrial depolarization",
+        "prediction": "The context contains information that:\n\n1. The P wave represents atrial depolarization, resulting in atrial contraction (systole).\n2. Ventricular rate can affect P wave interpretation, with fast rates possibly causing fibrillatory or flutter waves to be mistaken for P waves.\n3. P wave absence can indicate fine atrial fibrillation or sinoatrial arrest.\n4. P waves may not be clearly delineated in surface ECG and may need visualization through a Lewis lead.\n5. Atrial repolarization, which occurs after the P wave, may cause a Ta wave in the ECG with potential for ST depression, often mistaken for ischemic changes.\n6. Peaked P waves can indicate right atrial enlargement and cor pulmonale, although with low predictive value.\n7. AP waves with increased amplitude may suggest hypokalemia or right atrial enlargement, while decreased amplitude may indicate hyperkalemia.\n8. Bifid P waves (P mitrale) can indicate abnormalities in the left atrium, such as dilatation or hypertrophy.\n\nThe context does not mention anything about the P wave being uniquely identified by a specific letter or number. Thus, the content in the context doesn't contain that specific information. The answer is I don't know.",
+        "prediction_golden": "The context contains that the P wave phase of an electrocardiogram (ECG) represents atrial depolarization, which in turn results in atrial contraction, also known as atrial systole.",
+        "elapsed_time": 0.7899406999349594
+    },
+    {
+        "index": 23,
+        "query": "when did star trek the next generation first air",
+        "gold_answer": "September 28 , 1987",
+        "prediction": "Star Trek: The Next Generation first aired in its seventh season in December 2002.",
+        "prediction_golden": "The context contains that \"Star Trek: The Next Generation\" originally aired on September 25, 1989, and the last aired episode mentioned is May 23, 1994. Therefore, the first air date based on the provided context is September 25, 1989.",
+        "elapsed_time": 3.5976671999087557
+    },
+    {
+        "index": 32,
+        "query": "who sang the most wonderful summer of my life",
+        "gold_answer": "Jackie Ward",
+        "prediction": "The context reveals that the singer who sang \"The Most Wonderful Summer of My Life\" is Jackie Ward, who is better known as Robin Ward. The context also mentions that she recorded the demo for \"Wonderful Summer\" with songwriter-producer Perry Botkin Jr. and reached #14 on the Billboard Hot 100 chart with this song in 1963.",
+        "prediction_golden": "Robin Ward sang the song \"Most Wonderful Summer of My Life.\"",
+        "elapsed_time": 0.7956417999230325
+    },
+    {
+        "index": 37,
+        "query": "how many oscars did on golden pond win",
+        "gold_answer": "three",
+        "prediction": "On Golden Pond won one competitive Oscar, which Henry Fonda won at the age of 76, making him the oldest Oscar winner in that category. The film also earned nominations for five major Academy Awards: Best Picture, Director, Actor, Actress, and Screenplay.",
+        "prediction_golden": "On Golden Pond won three Oscars: Best Actor, Best Actress, and Best Adapted Screenplay.",
+        "elapsed_time": 1.241048299940303
+    },
+    {
+        "index": 39,
+        "query": "who won season 4 of america's got talent",
+        "gold_answer": "Kevin Skinner",
+        "prediction": "Kevin Skinner won season 4 of America's Got Talent.",
+        "prediction_golden": "Kevin Skinner won season 4 of America's Got Talent.",
+        "elapsed_time": 1.8365924999816343
+    }
+]

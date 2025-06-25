@@ -1,0 +1,82 @@
+[
+    {
+        "index": 11,
+        "query": "when did now thats what i call music come out",
+        "gold_answer": "28 November 1983",
+        "prediction": "Now That 's What I Call Music ( 1983 ) Now That 's What I Call Music II ( 1984 ) Now That 's What I Call Music ( also simply titled Now or Now 1 ) is the first album from the popular Now ! series that was released in the United Kingdom on 28 November 1983 . Initial pressings were released on vinyl and audio cassette . To celebrate the 25th anniversary of the album and series , the album was re-released on CD for the first time in 2009 . However , alternative longer mixes of Only For Love ,",
+        "prediction_golden": "Now That 's What I Call Music ( also simply titled Now or Now 1 ) is the first album from the popular Now ! series that was released in the United Kingdom on 28 November 1983 . Initial pressings were released on vinyl and audio cassette . To celebrate the 25th anniversary of the album and series , the album was re-released on CD for the first time in 2009 . However , alternative longer mixes of Only For Love , Double Dutch and Candy Girl were included in place of the original shorter single mixes from 1983 . A double vinyl re-release followed for Record Store Day on 18 April 2015 . In July 2018 , the album was newly remastered and re-released on CD , vinyl and cassette to commemorate the release of the 100th volume of the series .",
+        "elapsed_time": 0.7581574000651017
+    },
+    {
+        "index": 13,
+        "query": "where is the 2018 grey cup being played",
+        "gold_answer": "The Brick Field at Commonwealth Stadium in Edmonton , Alberta",
+        "prediction": "to decide the Canadian Football League ( CFL ) championship for the 2018 season . The game will be televised in Canada nationally on TSN . The game is scheduled to be played at The Brick Field at Commonwealth Stadium in Edmonton , Alberta on Sunday , November 25 , 2018 . Host city ( edit ) On March 24 , 2017 , it was reported by several news outlets that the Calgary Stampeders and Edmonton Eskimos were bidding to host the 2018 Grey Cup game . In previous years , the games would be awarded based",
+        "prediction_golden": "The game is scheduled to be played at The Brick Field at Commonwealth Stadium in Edmonton , Alberta on Sunday , November 25 , 2018 .",
+        "elapsed_time": 0.34916189999785274
+    },
+    {
+        "index": 16,
+        "query": "where did the band bastille get their name",
+        "gold_answer": "Bastille Day",
+        "prediction": "Bastille ( band ) - wikipedia Bastille ( band ) Jump to : navigation , search Bastille Bastille performing at Coachella in 2014 Background information Origin London , England , United Kingdom Genres Indie pop synth - pop indie rock Years active 2010 -- present Labels Virgin Capitol Website bastillebastille.com Members Dan Smith Kyle Simmons Will Farquarson Chris `` Woody '' Woods Bastille ( stylised as B\u0394STILLE ) are a British rock band formed in 2010 . The group began as a solo project by lead",
+        "prediction_golden": "Bastille ( stylised as B\u0394STILLE ) are a British rock band formed in 2010 . The group began as a solo project by lead vocalist Dan Smith , but later expanded to include keyboardist Kyle Simmons , bassist and guitarist Will Farquarson , and drummer Chris Wood . The name of the band derives from Bastille Day , which is celebrated on 14 July , the date of Smith 's birthday .",
+        "elapsed_time": 0.842010899912566
+    },
+    {
+        "index": 17,
+        "query": "where is arkansas river located on a map",
+        "gold_answer": "The Arkansas River flows through Colorado , Kansas , Oklahoma , and Arkansas , and its watershed also drains parts of Texas , New Mexico and Missouri .",
+        "prediction": ", New Mexico and Missouri . The Arkansas River is a major tributary of the Mississippi River . It generally flows to the east and southeast as it traverses the U.S. states of Colorado , Kansas , Oklahoma , and Arkansas . The river 's source basin lies in the western United States in Colorado , specifically the Arkansas River Valley , where the headwaters derive from the snowpack in the Sawatch and Mosquito mountain ranges . It then flows east into the Midwest via Kansas , and finally into the",
+        "prediction_golden": "Arkansas River River The lower part of the Arkansas River near Little Rock , Arkansas Country United States States Colorado , Kansas , Oklahoma , Arkansas Region Great Plains Part of Mississippi River watershed Tributaries - left Fountain Creek , Pawnee River , Little Arkansas River , Walnut River , Verdigris River , Neosho River - right Cimarron River , Salt Fork Arkansas River , Canadian River , Poteau River Cities Pueblo , CO , Wichita , KS , Tulsa , OK , Muskogee , OK , Fort Smith , AR , Little Rock , AR , Pine Bluff , AR Source Confluence of East Fork Arkansas River and Tennessee Creek - location Near Leadville , Rocky Mountains , Colorado - elevation 9,728 ft ( 2,965 m ) - coordinates 39 \u00b0 15 \u2032 30 '' N 106 \u00b0 20 \u2032 38 '' W \ufeff / \ufeff 39.25833 \u00b0 N 106.34389 \u00b0 W \ufeff / 39.25833 ; - 106.34389 Mouth Mississippi River - location Franklin Township , Desha County , near Napoleon , Arkansas - elevation 108 ft ( 33 m ) - coordinates 33 \u00b0 46 \u2032 30 '' N 91 \u00b0 04 \u2032 15 '' W \ufeff / \ufeff 33.77500 \u00b0 N 91.07083 \u00b0 W \ufeff / 33.77500 ; - 91.07083 Coordinates : 33 \u00b0 46 \u2032 30 '' N 91 \u00b0 04 \u2032 15 '' W \ufeff / \ufeff 33.77500 \u00b0 N 91.07083 \u00b0 W \ufeff / 33.77500 ; - 91.07083 Length 1,469 mi ( 2,364 km ) , West - east Basin 168,002 sq mi ( 435,123 km ) Discharge for Dardanelle , Arkansas , river mile 219.5 ( river kilometer 353.3 ) - average 40,517 cu ft / s ( 1,147 m / s ) - max 683,000 cu ft / s ( 19,340 m / s ) - min 1,207 cu ft / s ( 34 m / s ) The Arkansas River flows through Colorado , Kansas , Oklahoma , and Arkansas , and its watershed also drains parts of Texas , New Mexico and Missouri .",
+        "elapsed_time": 2.8529920000582933
+    },
+    {
+        "index": 18,
+        "query": "who plays nicholas in the princess diaries 2",
+        "gold_answer": "Chris Pine",
+        "prediction": "office $134.7 million The Princess Diaries 2 : Royal Engagement is a 2004 American romantic comedy film and the sequel to 2001 's The Princess Diaries . Unlike the first film , this film is not based on any of the books . Most of the cast returned from the first film , including Julie Andrews , Anne Hathaway , H\u00e9ctor Elizondo , Heather Matarazzo , and Larry Miller . Garry Marshall returned to direct and Debra Martin Chase to produce . New characters include Viscount Mabrey ( John Rhys - Davies",
+        "prediction_golden": "Most of the cast returned from the first film , including Julie Andrews , Anne Hathaway , H\u00e9ctor Elizondo , Heather Matarazzo , and Larry Miller . Garry Marshall returned to direct and Debra Martin Chase to produce . New characters include Viscount Mabrey ( John Rhys - Davies ) , Lord Nicholas Devereaux ( Chris Pine ) , and Andrew Jacoby ( Callum Blue ) .",
+        "elapsed_time": 0.60916770005133
+    },
+    {
+        "index": 22,
+        "query": "the p-wave phase of an electrocardiogram (ecg) represents",
+        "gold_answer": "atrial depolarization",
+        "prediction": "P wave ( electrocardiography ) - wikipedia P wave ( electrocardiography ) Normal P wave , shown in darker red The P wave in the ECG represents atrial depolarization , which results in atrial contraction , or atrial systole . Contents 1 Physiology 2 Pathology 3 Atrial repolarization 4 Related pages 5 References Physiology ( edit ) This article needs additional citations for verification . Please help improve this article by adding citations to reliable sources . Unsourced material may be",
+        "prediction_golden": "The P wave in the ECG represents atrial depolarization , which results in atrial contraction , or atrial systole .",
+        "elapsed_time": 0.45535079995170236
+    },
+    {
+        "index": 23,
+        "query": "when did star trek the next generation first air",
+        "gold_answer": "September 28 , 1987",
+        "prediction": "' large salaries . Roddenberry initially declined to be involved , but came on board as creator after being unhappy with early conceptual work . Star Trek : The Next Generation was announced on October 10 , 1986 , and its cast in May 1987 . Paramount executive Rick Berman was assigned to the show at Roddenberry 's request . Roddenberry hired a number of Star Trek veterans , including Bob Justman , D.C. Fontana , Eddie Milkis , and David Gerrold . Early proposals for the series included one in",
+        "prediction_golden": "Season Episodes Originally aired First aired Last aired 26 September 28 , 1987 ( 1987 - 09 - 28 ) May 16 , 1988 ( 1988 - 05 - 16 ) 22 November 21 , 1988 ( 1988 - 11 - 21 ) July 17 , 1989 ( 1989 - 07 - 17 ) 26 September 25 , 1989 ( 1989 - 09 - 25 ) June 18 , 1990 ( 1990 - 06 - 18 ) 26 September 24 , 1990 ( 1990 - 09 - 24 ) June 17 , 1991 ( 1991 - 06 - 17 ) 5 26 September 23 , 1991 ( 1991 - 09 - 23 ) June 15 , 1992 ( 1992 - 06 - 15 ) 6 26 September 21 , 1992 ( 1992 - 09 - 21 ) June 21 , 1993 ( 1993 - 06 - 21 ) 7 26 September 20 , 1993 ( 1993 - 09 - 20 ) May 23 , 1994 ( 1994 - 05 - 23 )",
+        "elapsed_time": 2.7028981000185013
+    },
+    {
+        "index": 32,
+        "query": "who sang the most wonderful summer of my life",
+        "gold_answer": "Jackie Ward",
+        "prediction": "to release as a pop music single . But because the sped - up singing sounded younger than 21 - year - old Jackie Ward , she suggested using her daughter 's first name Robin on the record label . That fall , `` Wonderful Summer '' was released by Dot Records as a 45rpm single . Sales exceeded one million copies in the United States , propelling the record to # 14 on the Billboard Hot 100 chart of December 14 -- 21 , 1963 . An album followed , with limited success . Jackie Ward made additional ``",
+        "prediction_golden": "Jackie Ward ( born Jacqueline McDonnell , 1941 ) , better known as Robin Ward , is an American singer , regarded as a `` one - hit wonder '' of 1963 million - selling song `` Wonderful Summer '' . However , using her real name she was highly accomplished and successful singing in groups . Ward 's voice is heard in U.S. television series , motion pictures , advertisements , and pop records . She is one of the real singers of the hits attributed to The Partridge Family .",
+        "elapsed_time": 0.5058758000377566
+    },
+    {
+        "index": 37,
+        "query": "how many oscars did on golden pond win",
+        "gold_answer": "three",
+        "prediction": "( Thompson ) . Henry Fonda won his only competitive Oscar with this movie and at the age of 76 , he became the oldest winner in the aforementioned category . Katharine Hepburn won her fourth Best Actress award , extending her own record for the most Oscars won by a thespian . On Golden Pond is also one of the few movies to earn the nominations for five major Academy Awards ( Best Picture , Director , Actor , Actress , and Screenplay ) . Contents ( hide ) 1 Plot 2 Cast 3 Production 4 Reception",
+        "prediction_golden": "The film received ten nominations at the 54th Academy Awards including Best Picture and won three : Best Actor ( Fonda ) , Best Actress ( Hepburn ) and Best Adapted Screenplay ( Thompson ) . Henry Fonda won his only competitive Oscar with this movie and at the age of 76 , he became the oldest winner in the aforementioned category . Katharine Hepburn won her fourth Best Actress award , extending her own record for the most Oscars won by a thespian . On Golden Pond is also one of the few movies to earn the nominations for five major Academy Awards ( Best Picture , Director , Actor , Actress , and Screenplay ) .",
+        "elapsed_time": 0.9904476000228897
+    },
+    {
+        "index": 39,
+        "query": "who won season 4 of america's got talent",
+        "gold_answer": "Kevin Skinner",
+        "prediction": "3 ( 2008 ) America 's Got Talent Season 4 ( 2009 ) Succeeded by Season 5 ( 2010 ) America 's Got Talent Seasons 5 6 7 8 9 10 11 12 13 Winners Bianca Ryan Terry Fator Neal E. Boyd Kevin Skinner Michael Grimm Landau Eugene Murphy Jr . Olate Dogs Kenichi Ebina Mat Franco Paul Zerdin Grace VanderWaal Darci Lynne Farmer Shin Lim Runners - up The Millers Cas Haley Eli Mattson B\u00e1rbara Padilla Jackie Evancho Silhouettes Tom Cotter Taylor Williamson Emily West Drew Lynch The Clairvoyants Angelica Hale",
+        "prediction_golden": "The fourth season of America 's Got Talent , an American television reality show talent competition , premiered on the NBC network on June 23 , 2009 . Country singer Kevin Skinner was named the winner on September 16 , 2009 . This season is the first season to be broadcast in high definition .",
+        "elapsed_time": 1.5182036999613047
+    }
+]

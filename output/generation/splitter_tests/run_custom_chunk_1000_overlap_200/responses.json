@@ -1,0 +1,82 @@
+[
+    {
+        "index": 11,
+        "query": "when did now thats what i call music come out",
+        "gold_answer": "28 November 1983",
+        "prediction": "Now That's What I Call Music came out on 28 November 1983.",
+        "prediction_golden": "Now That's What I Call Music, also known as Now or Now 1, was originally released on 28 November 1983.",
+        "elapsed_time": 2.219903700053692
+    },
+    {
+        "index": 13,
+        "query": "where is the 2018 grey cup being played",
+        "gold_answer": "The Brick Field at Commonwealth Stadium in Edmonton , Alberta",
+        "prediction": "The 2018 Grey Cup game will be played at The Brick Field at Commonwealth Stadium in Edmonton, Alberta.",
+        "prediction_golden": "The 2018 Grey Cup is being played at The Brick Field at Commonwealth Stadium in Edmonton, Alberta on Sunday, November 25, 2018.",
+        "elapsed_time": 2.125355700030923
+    },
+    {
+        "index": 16,
+        "query": "where did the band bastille get their name",
+        "gold_answer": "Bastille Day",
+        "prediction": "The band Bastille got their name from Bastille Day, which is celebrated on 14 July. This date is significant as it is also the birthday of the band's lead vocalist, Dan Smith.",
+        "prediction_golden": "The band Bastille got their name from Bastille Day, which is celebrated on 14 July, the date of lead vocalist Dan Smith's birthday.",
+        "elapsed_time": 3.211348899989389
+    },
+    {
+        "index": 17,
+        "query": "where is arkansas river located on a map",
+        "gold_answer": "The Arkansas River flows through Colorado , Kansas , Oklahoma , and Arkansas , and its watershed also drains parts of Texas , New Mexico and Missouri .",
+        "prediction": "The context provides information that the Arkansas River originates in the Rocky Mountains in Lake County, Colorado, near Leadville. It flows through several U.S. states including Colorado, Kansas, Oklahoma, and Arkansas, and eventually flows into the Mississippi River. The river's source basin is in the western United States in Colorado, specifically the Arkansas River Valley, where headwaters derive from the snowpack in the Sawatch and Mosquito mountain ranges. It also mentions that in the 1859, placer gold was discovered in the Leadville area, which attracted many people seeking to strike it rich.",
+        "prediction_golden": "The Arkansas River is located in the United States, flowing through Colorado, Kansas, Oklahoma, and Arkansas, specifically in the Great Plains region. It also drains parts of Texas, New Mexico, and Missouri. The lower part of the river near Little Rock, Arkansas, is mentioned, with specific coordinates provided for locations near Leadville, Colorado, and Napoleon, Arkansas. The river's length is stated as 1,469 mi (2,364 km), and basin size is given as 168,002 sq mi (435,123 km). Discharge measurements for Dardanelle, Arkansas, are also provided. The context does not provide a specific map location beyond these details. If a more precise map location is needed, that information is not contained in the given context.",
+        "elapsed_time": 7.134442599955946
+    },
+    {
+        "index": 18,
+        "query": "who plays nicholas in the princess diaries 2",
+        "gold_answer": "Chris Pine",
+        "prediction": "Chris Pine plays the character Lord Nicholas Devereaux in The Princess Diaries 2: Royal Engagement.",
+        "prediction_golden": "Chris Pine plays Lord Nicholas Devereaux in Princess Diaries 2.",
+        "elapsed_time": 2.1539182000560686
+    },
+    {
+        "index": 22,
+        "query": "the p-wave phase of an electrocardiogram (ecg) represents",
+        "gold_answer": "atrial depolarization",
+        "prediction": "The context contains information about the P wave representing atrial depolarization on an ECG. It details that the right atrium generally depolarizes slightly earlier than the left atrium. The process involves the depolarization wave originating in the sinoatrial node and traveling diagonally through the atria. Different morphologies of the P wave can indicate various conditions such as left atrial abnormality, ectopic foci, atrial fibrillation, sinus arrest, and atrial flutter. Absent P waves with a flat baseline may indicate fine atrial fibrillation or sinoatrial arrest with a secondary escape rhythm. The context also mentions that multiple different shaped P waves in a given ECG lead tracing suggests at least two separate ectopic foci and a possible multifocal atrial rhythm, common in chronic obstructive lung disease exacerbations.",
+        "prediction_golden": "The context contains that the P wave phase of an electrocardiogram (ECG) represents atrial depolarization, which in turn results in atrial contraction, also known as atrial systole.",
+        "elapsed_time": 8.079912999994121
+    },
+    {
+        "index": 23,
+        "query": "when did star trek the next generation first air",
+        "gold_answer": "September 28 , 1987",
+        "prediction": "Star Trek: The Next Generation first aired in 1987.",
+        "prediction_golden": "The context contains that \"Star Trek: The Next Generation\" originally aired on September 25, 1989, and the last aired episode mentioned is May 23, 1994. Therefore, the first air date based on the provided context is September 25, 1989.",
+        "elapsed_time": 3.4651439000153914
+    },
+    {
+        "index": 32,
+        "query": "who sang the most wonderful summer of my life",
+        "gold_answer": "Jackie Ward",
+        "prediction": "Robin Ward sang the song \"Wonderful Summer.\"",
+        "prediction_golden": "Robin Ward sang the song \"Most Wonderful Summer of My Life.\"",
+        "elapsed_time": 1.5707167000509799
+    },
+    {
+        "index": 37,
+        "query": "how many oscars did on golden pond win",
+        "gold_answer": "three",
+        "prediction": "On Golden Pond won three Academy Awards: Best Actor (Henry Fonda), Best Actress (Katharine Hepburn), and Best Adapted Screenplay (Thompson).",
+        "prediction_golden": "On Golden Pond won three Oscars: Best Actor, Best Actress, and Best Adapted Screenplay.",
+        "elapsed_time": 3.0136427999241278
+    },
+    {
+        "index": 39,
+        "query": "who won season 4 of america's got talent",
+        "gold_answer": "Kevin Skinner",
+        "prediction": "Kevin Skinner won season 4 of America's Got Talent.",
+        "prediction_golden": "Kevin Skinner won season 4 of America's Got Talent.",
+        "elapsed_time": 2.8204480999847874
+    }
+]
