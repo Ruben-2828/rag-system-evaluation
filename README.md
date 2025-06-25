@@ -86,7 +86,7 @@ The runs were performed on the following datasets:
 
 ## Author
 
-* [**Falbo Andrea**](https://github.com/LilQuacky19)
+* [**Falbo Andrea**](https://github.com/LilQuacky)
 * [**Tenderini Ruben**](https://github.com/Ruben-2828)
 
 ## License
