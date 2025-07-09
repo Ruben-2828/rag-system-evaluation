@@ -5,9 +5,10 @@
     "chunk_size": 500,
     "chunk_overlap": 100,
     "top_k": 5,
+    "k_values": [1, 3, 5, 10],
     "num_valid_examples": 10,
-    "placeholder_model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
     "llm_model": "Qwen/Qwen1.5-1.8B-Chat",
     "temperature": 0.5,
-    "max_new_tokens": 256
+    "max_new_tokens": 256,
+    "prompt_type": "basic"
 }
