@@ -176,6 +176,7 @@ cython_debug/
 # input/output folders
 datasets/
 beir_data/
-output_old
+output_old/
+output/
 
 

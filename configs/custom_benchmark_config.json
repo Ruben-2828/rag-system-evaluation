@@ -1,14 +1,16 @@
 {
     "dataset_split": "train[100:1000]",
     "output_folder": "output/prova",
+    "run_name": "prova_cucucucucuc",
     "embedding_model_name": "sentence-transformers/all-MiniLM-L6-v2",
     "chunk_size": 500,
     "chunk_overlap": 100,
     "top_k": 5,
     "k_values": [1, 3, 5, 10],
-    "num_valid_examples": 10,
+    "num_valid_examples": 2,
     "llm_model": "Qwen/Qwen1.5-1.8B-Chat",
     "temperature": 0.5,
     "max_new_tokens": 256,
-    "prompt_type": "basic"
+    "prompt_type": "basic",
+    "only_retrieve": false
 }
