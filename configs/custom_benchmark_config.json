@@ -1,13 +1,13 @@
 {
     "dataset_split": "train[100:1000]",
-    "output_folder": "output/generation/hardware_tests",
+    "output_folder": "output/prova",
     "embedding_model_name": "sentence-transformers/all-MiniLM-L6-v2",
     "chunk_size": 500,
     "chunk_overlap": 100,
     "top_k": 5,
     "num_valid_examples": 10,
-    "use_llm": true,
-    "llm_model": "microsoft/Phi-3.5-mini-instruct",
+    "placeholder_model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+    "llm_model": "Qwen/Qwen1.5-1.8B-Chat",
     "temperature": 0.5,
     "max_new_tokens": 256
 }
