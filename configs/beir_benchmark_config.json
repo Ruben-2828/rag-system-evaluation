@@ -1,7 +1,7 @@
 {
-    "dataset": "scidocs",
+    "dataset": "scifact",
     "datasets_folder": "datasets/",
-    "model_name": "sentence-transformers/paraphrase-MiniLM-L6-v2",
+    "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "batch_size": 32,
     "score_function": "cos_sim",
     "k_values": [
@@ -10,5 +10,6 @@
         5,
         10
     ],
-    "output_folder": "output/prova/"
+    "output_folder": "output/beir/models",
+    "run_name": "paraphrase-multilingual-MiniLM-L12-v2"
 }

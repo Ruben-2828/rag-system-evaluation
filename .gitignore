@@ -178,5 +178,6 @@ datasets/
 beir_data/
 output_old/
 output/
+report/
 
 

@@ -1,16 +1,16 @@
 {
     "dataset_split": "train[100:1000]",
-    "output_folder": "output/generation/chunk_size",
-    "run_name": "size_200_overlap_20",
+    "output_folder": "output/generation/prompt_type",
+    "run_name": "self_verification",
     "embedding_model_name": "sentence-transformers/all-MiniLM-L6-v2",
-    "chunk_size": 200,
-    "chunk_overlap": 20,
+    "chunk_size": 500,
+    "chunk_overlap": 100,
     "top_k": 5,
     "k_values": [1, 3, 5, 10],
     "num_valid_examples": 10,
     "llm_model": "HuggingFaceTB/SmolLM3-3B",
     "temperature": 0.5,
     "max_new_tokens": 256,
-    "prompt_type": "basic",
+    "prompt_type": "self_verify",
     "only_retrieve": false
 }
